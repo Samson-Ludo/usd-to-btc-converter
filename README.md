@@ -10,10 +10,6 @@ A simple widget that converts USD to BTC using the CoinGecko API, built with Nex
 - Shows the last updated timestamp when the price was fetched.
 - Simple and responsive UI built with Tailwind CSS.
 
-## Demo
-
-![USD to BTC Converter](./screenshot.png) <!-- Add a screenshot of the widget here -->
-
 ## Installation
 
 1. Clone the repository:
